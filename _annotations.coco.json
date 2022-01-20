@@ -1,0 +1,55 @@
+{
+    "info": {
+        "year": "2022",
+        "version": "1",
+        "description": "Exported from roboflow.ai",
+        "contributor": "",
+        "url": "https://public.roboflow.ai/object-detection/undefined",
+        "date_created": "2022-01-20T21:23:34+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "https://creativecommons.org/licenses/by/4.0/",
+            "name": "CC BY 4.0"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "fibras",
+            "supercategory": "none"
+        },
+        {
+            "id": 1,
+            "name": "no_med",
+            "supercategory": "fibras"
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "license": 1,
+            "file_name": "C_1_30_png.rf.09e021832eb6bd0758b329f185547f6c.jpg",
+            "height": 480,
+            "width": 640,
+            "date_captured": "2022-01-20T21:23:34+00:00"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 1,
+            "bbox": [
+                200,
+                102,
+                83,
+                94
+            ],
+            "area": 7802,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ]
+}

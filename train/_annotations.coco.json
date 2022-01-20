@@ -1,0 +1,165 @@
+{
+    "info": {
+        "year": "2022",
+        "version": "2",
+        "description": "Exported from roboflow.ai",
+        "contributor": "",
+        "url": "https://public.roboflow.ai/object-detection/undefined",
+        "date_created": "2022-01-20T22:50:19+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "https://creativecommons.org/licenses/by/4.0/",
+            "name": "CC BY 4.0"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "fibras",
+            "supercategory": "none"
+        },
+        {
+            "id": 1,
+            "name": "c",
+            "supercategory": "fibras"
+        },
+        {
+            "id": 2,
+            "name": "frag",
+            "supercategory": "fibras"
+        },
+        {
+            "id": 3,
+            "name": "no_med",
+            "supercategory": "fibras"
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "license": 1,
+            "file_name": "C_1_105_png.rf.4cb691690eeeb143236b39ab97f2a413.jpg",
+            "height": 480,
+            "width": 640,
+            "date_captured": "2022-01-20T22:50:19+00:00"
+        },
+        {
+            "id": 1,
+            "license": 1,
+            "file_name": "C_1_93_png.rf.29a9eab05504cea8a966f3cdf754677f.jpg",
+            "height": 480,
+            "width": 640,
+            "date_captured": "2022-01-20T22:50:19+00:00"
+        },
+        {
+            "id": 2,
+            "license": 1,
+            "file_name": "C_1_30_png.rf.6be4947fea613cec08907cba430afad4.jpg",
+            "height": 480,
+            "width": 640,
+            "date_captured": "2022-01-20T22:50:19+00:00"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 3,
+            "bbox": [
+                131,
+                210,
+                44,
+                103
+            ],
+            "area": 4532,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 1,
+            "image_id": 0,
+            "category_id": 3,
+            "bbox": [
+                241,
+                220,
+                59,
+                88
+            ],
+            "area": 5192,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 1,
+            "category_id": 1,
+            "bbox": [
+                506,
+                144,
+                84,
+                121
+            ],
+            "area": 10164,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 1,
+            "category_id": 2,
+            "bbox": [
+                80,
+                182,
+                56,
+                295
+            ],
+            "area": 16520,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 2,
+            "category_id": 3,
+            "bbox": [
+                200,
+                102,
+                83,
+                94
+            ],
+            "area": 7802,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 2,
+            "category_id": 3,
+            "bbox": [
+                573,
+                136,
+                22,
+                118
+            ],
+            "area": 2596,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 6,
+            "image_id": 2,
+            "category_id": 3,
+            "bbox": [
+                434,
+                145,
+                85,
+                105
+            ],
+            "area": 8925,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ]
+}
